@@ -1,0 +1,4 @@
+$ git branch -vv
+* main              d4e5f6g [origin/main] Initial commit + merged bug-fix-typo
+  bug-fix-typo      a1b2c3d [origin/bug-fix-typo] Fixed typo in README
+  feature-interest  h7i8j9k [origin/feature-interest] Added simple-interest.sh script
