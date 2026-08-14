@@ -3,3 +3,6 @@ HTTP/2 200
 server: GitHub.com
 content-type: text/html; charset=utf-8
 status: 200 OK
+
+$ curl -s https://github.com/your-username/mcino-Introduction-to-Git-and-GitHub | grep -i "Forked from"
+Forked from ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
