@@ -1,0 +1,5 @@
+$ curl -I https://github.com/your-username/github-final-project/pull/1
+HTTP/2 200
+server: GitHub.com
+content-type: text/html; charset=utf-8
+status: 200 OK
